@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36310.24 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance_Kendaraan", "Inheritance_Kendaraan\Inheritance_Kendaraan.csproj", "{A836D03D-1AFE-4011-898E-C3FA2AE5B664}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A836D03D-1AFE-4011-898E-C3FA2AE5B664}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A836D03D-1AFE-4011-898E-C3FA2AE5B664}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A836D03D-1AFE-4011-898E-C3FA2AE5B664}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A836D03D-1AFE-4011-898E-C3FA2AE5B664}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5BE9439D-E152-4ACB-AD27-25B2AD1A4FE5}
+	EndGlobalSection
+EndGlobal
